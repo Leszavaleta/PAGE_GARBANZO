@@ -1,0 +1,34 @@
+---
+title: ""
+format:
+  html:
+    css: estilos.css
+---
+::: {.portada}
+
+# UNIVERSIDAD NACIONAL TORIBIO RODRÍGUEZ DE MENDOZA DE AMAZONAS
+
+![](img/logountrm.png){width=180px}
+
+## FACULTAD DE INGENIERÍA Y CIENCIAS AGRARIAS
+
+## ESCUELA PROFESIONAL DE INGENIERÍA AGRÓNOMA
+
+### Evaluación de métodos de escarificación en semillas de garbanzo *(Cicer arietinum L.)*
+
+### Integrantes
+
+- Cubas Fernandez Mikey
+- Ortiz Zavaleta Lesli
+- Silva Castro Jose Luis
+- Tapia Chavarry Emeli
+- Tuesta Chichipe Araceli
+
+### Curso
+
+Producción y Tecnología de Semillas
+
+### Docente 
+
+Dr. Flavio Lozano Isla
+:::

@@ -1,0 +1,33 @@
+---
+title: "Resultados"
+---
+
+## Porcentaje de germinación
+
+Los tratamientos de escarificación evaluados presentaron diferencias en el porcentaje de germinación de semillas de garbanzo. El tratamiento con bisturí mostró el mayor porcentaje de germinación, alcanzando aproximadamente 35 %, seguido del tratamiento de remojo con cerca de 29 % y el tratamiento control con valores próximos al 27 %. El tratamiento de lijado presentó el menor porcentaje de germinación, con valores alrededor de 23 %. Sin embargo, las letras iguales sobre las barras indican que no existieron diferencias estadísticas significativas entre tratamientos (p>0.05).
+Estos resultados evidencian que la escarificación mecánica mediante bisturí favoreció una mayor permeabilidad de la testa y permitió una absorción más eficiente de agua, acelerando la activación metabólica de las semillas.
+
+::: {.center}
+
+![](img/porcentaje.jpg){width=75%}
+
+<div style="font-style:italic; font-size:12px; margin-top:-8px; text-align:center;">
+Imagen 4. Porcentaje de germinación obtenido en los diferentes tratamientos de escarificación. El tratamiento con bisturí presentó el mayor porcentaje de germinación, mientras que el tratamiento de lijado mostró los valores más bajos. Sin embargo, no se observaron diferencias estadísticas significativas entre tratamientos.
+</div>
+:::
+
+## Tiempo medio de germinación
+
+El tiempo medio de germinación osciló entre 2.8 y 3.3 días entre los tratamientos evaluados. El tratamiento control presentó el menor tiempo medio de germinación, mientras que el tratamiento de lijado mostró el mayor valor. Los tratamientos con bisturí y remojo presentaron valores intermedios. No obstante, estadísticamente no se observaron diferencias significativas entre tratamientos, debido a que todos presentaron la misma agrupación estadística.
+Esto indica que, aunque algunos tratamientos favorecieron ligeramente la rapidez de germinación, las diferencias no fueron suficientes para generar variaciones estadísticas marcadas en el tiempo medio germinativo.
+
+::: {.center}
+
+![](img/tiempo.jpg){width=75%}
+
+
+<div style="font-style:italic; font-size:11px; margin-top:-8px; text-align:center;">
+Imagen 5. Tiempo medio de germinación en días para cada tratamiento evaluado. El tratamiento control presentó el menor tiempo de germinación, mientras que el tratamiento de lijado registró el mayor valor. A pesar de ello, no existieron diferencias significativas entre tratamientos.
+</div>
+:::
+

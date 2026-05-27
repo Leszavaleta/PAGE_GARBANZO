@@ -1,0 +1,61 @@
+---
+title: "Evaluación de métodos de escarificación en semillas de garbanzo (Cicer arietinum L.)"
+author: "GRUPO_6"
+format: html
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Garbanzo</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<header>
+
+<h1>
+Efecto de 4 Métodos de Escarificación
+en la Germinación del Garbanzo
+</h1>
+
+
+</header>
+
+<section class="cards">
+
+<div class="card">
+<h2>Objetivo</h2>
+<p>
+Evaluar los métodos de escarificación.
+</p>
+</div>
+
+<div class="card">
+<h2>Método Mecánico</h2>
+<p>
+Lijado de semillas.
+</p>
+</div>
+
+<div class="card">
+<h2>Método Químico</h2>
+<p>
+Uso de solución química.
+</p>
+</div>
+
+<div class="card">
+<h2>Método Térmico</h2>
+<p>
+Aplicación de agua caliente.
+</p>
+</div>
+
+</section>
+
+</body>
+</html>

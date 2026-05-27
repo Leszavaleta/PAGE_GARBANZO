@@ -1,0 +1,20 @@
+---
+title: ""
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Referencias
+
+Bewley, J. D., Bradford, K. J., Hilhorst, H. W. M., & Nonogaki, H. (2013). Dormancy and the Control of Germination. En J. D. Bewley, K. J. Bradford, H. W. M. Hilhorst, & H. Nonogaki (Eds.), Seeds: Physiology of Development, Germination and Dormancy, 3rd Edition (pp. 247-297). Springer. https://doi.org/10.1007/978-1-4614-4693-4_6 
+
+Fu, C., Xing, S.,Zhao, D., Zang, D., Wei, Y., Zhao, L., & Yu, X. (2017). A Study on the Aseptic Germination Method for Rosa rugose Seeds. Agricultural Sciences, 8(5),426-434. https://doi.org/10.4236/as.2017.85032 
+
+Garduza-Acosta, B., Lagunes-Espinoza, L. C., Bautista-Muñoz, C. C., García-de-Los-Santos, G., Zaldívar-Cruz, J. M., & Hernández-Flores, A. (2020). Germination of Crotalaria and Lupinus (Fabaceae) seeds submitted to different pre-germination treatments and their effect on enzymatic activity during early germination. Brazilian Journal of Biology = Revista Brasleira De Biologia, 80(1), 23-29. https://doi.org/10.1590/1519-6984.185813
+
+Halliday, J., & Nakao, P. (1984). Nota preliminar sobre quebra de dormência em sementes de leguminosas arbóreas. Pesquisa Agropecuaria Brasileira, 231-234. https://doi.org/10.1590/S1678-3921.pab1984.v19.17536 
+
+Kimura, E., & Islam, M. (2012). Métodos de escarificación de semillas y su uso en leguminosas forrajeras. https://scialert.net/fulltext/?doi=rjss.2012.38.50 
+
+Sedláková, V., Hanáček, P., Grulichová, M., Zablatzká, L., & Smýkal, P. (2021). Evaluation of Seed Dormancy, One of the Key Domestication Traits in Chickpea. Agronomy, 11(11), 2292. https://doi.org/10.3390/agronomy11112292

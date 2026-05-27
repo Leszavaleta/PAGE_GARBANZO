@@ -1,0 +1,16 @@
+---
+title: "INTRODUCCIÓN"
+format: html
+---
+<div style="float:right; margin-left:25px; margin-bottom:15px; text-align:center; width:300px;">
+
+<img src="img/garbanzo.jpg"
+style="width:300px; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+
+<div style="font-style:italic; font-size:14px; margin-top:-8px; text-align:center;">
+     Imagen 1. Semillas de garbanzo.
+</div>
+
+</div>
+
+El garbanzo *(Cicer arietinum L.)* es una de las leguminosas más importantes a nivel mundial debido a su alto contenido proteico y su contribución a la seguridad alimentaria, especialmente en regiones con recursos limitados. Sin embargo, la presencia de dormancia física causada por la impermeabilidad de la cubierta seminal limita una germinación rápida y uniforme, afectando el establecimiento del cultivo (Sedláková et al., 2021). La escarificación constituye una práctica fundamental para romper la latencia de las semillas, permitiendo una mayor absorción de agua y favoreciendo el proceso germinativo (Halliday & Nakao, 1984).  Actualmente, existen diversos métodos de escarificación, como los mecánicos, químicos y térmicos, los cuales presentan diferencias en eficacia y costo de aplicación. Estudios en leguminosas han demostrado que estos tratamientos incrementan significativamente el porcentaje y la velocidad de germinación (Garduza-Acosta et al., 2020).  El presente experimento empleó un diseño completamente al azar con 4 tratamientos de escarificación en semillas de garbanzo: escarificación mecánica con lija, corte superficial con bisturí, tratamiento con agua hervida y un tratamiento control sin escarificación, bajo la hipótesis de que los tratamientos de escarificación incrementarán significativamente la germinación respecto al tratamiento control, los datos fueron registrados en Tarpuy y analizados con el paquete GerminaR en R. Asimismo se planteó como objetivo comparar la eficacia de los diferentes métodos de escarificación sobre la germinación de semillas de garbanzo.
