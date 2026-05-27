@@ -1,0 +1,28 @@
+p {
+  text-align: justify;
+}
+
+
+/* Acercar texto a imagen */
+
+figure{
+margin-bottom:5px !important;
+}
+
+figcaption{
+margin-top:3px !important;
+font-size:15px;
+font-style:italic;
+text-align:center;
+}
+
+
+/* Sangría francesa APA */
+
+#referencias p,
+#references p{
+margin-left:1.27cm;
+text-indent:-1.27cm;
+margin-bottom:10px;
+text-align:left;
+}

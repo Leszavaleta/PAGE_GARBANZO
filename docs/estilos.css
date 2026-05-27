@@ -1,0 +1,68 @@
+.portada{
+text-align:center !important;
+margin-top:20px;
+}
+
+/* Logo */
+
+.portada img{
+display:block;
+margin:auto;
+margin-top:15px;
+margin-bottom:20px;
+}
+
+/* Universidad */
+
+.portada h1{
+font-size:42px;
+font-weight:bold;
+text-align:center;
+}
+
+/* Facultad y escuela */
+
+.portada h2{
+font-size:28px;
+font-weight:bold;
+text-align:center;
+}
+
+/* Titulo trabajo */
+
+.portada h3{
+font-size:24px;
+font-weight:bold;
+text-align:center;
+}
+
+/* Integrantes Curso y Docente */
+
+.portada h4{
+background-color:#C8E6C9;
+padding:8px 18px;
+border-radius:8px;
+display:inline-block;
+font-size:24px;
+font-weight:bold;
+}
+
+/* Todo el texto */
+
+.portada p{
+text-align:center !important;
+font-size:20px;
+}
+
+/* Lista integrantes */
+
+.portada ul{
+list-style:none;
+padding:0;
+text-align:center !important;
+}
+
+.portada li{
+margin:6px;
+font-size:20px;
+}
